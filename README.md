@@ -5,6 +5,8 @@
 
 接着运行myAnalyser的main函数进行分析和写入文件  参数 basename
 
+output函数输出结果
+
 源码下载http://webgraph.di.unimi.it/
 
 数据集：http://law.di.unimi.it/datasets.php
